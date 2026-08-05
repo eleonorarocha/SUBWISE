@@ -1,10 +1,10 @@
-# Artefatos
+# The Four Artifacts
 
-Lista dos principais artefatos que representam a identidade de SubWise. Estes documentos acompanham o produto a longo prazo.
+SubWise is built from four artifacts. Each has a single, non-overlapping role.
 
-Exemplos:
+- Home reflects who you are today.
+- The Journal preserves who you were.
+- Subscription Detail tells the story of one commitment.
+- Awareness shows the one truth that deserves your attention today.
 
-- Logotipo e variantes
-- Guia de estilo de escrita
-- Modelos editoriais
-- Estruturas de dados públicas (contratos)
+No artifact repeats the role of another. If a feature does not clearly belong to one of these four, it does not belong in SubWise.
