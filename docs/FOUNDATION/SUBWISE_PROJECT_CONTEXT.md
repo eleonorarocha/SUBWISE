@@ -63,6 +63,18 @@ Current priorities
 
 ---
 
+## 6.1 Product Maturity
+
+[PLACEHOLDER: Indicate product maturity level (e.g., discovery / prototype / alpha / beta / production) and criteria that define it.]
+
+---
+
+## 6.2 Current Architecture Status
+
+[PLACEHOLDER: Brief current state of the architecture (e.g., "Docs only", "Prototype frontend", "Backend not implemented"). Do NOT invent details; keep placeholders for accurate owner-filled content.]
+
+---
+
 ## 7. Repository Structure
 
 Explain where Foundation, Product, Architecture and Development documents live.
