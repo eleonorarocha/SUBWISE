@@ -64,7 +64,7 @@ Path: docs/PRODUCT_DEVELOPMENT/
 - SUBWISE_REPOSITORY_ARCHITECTURE.md — Repository Architecture placeholder (canonical location).
   Path: docs/architecture/SUBWISE_REPOSITORY_ARCHITECTURE.md
 
-- REPOSITORY_FREEZE_v1.0.md — Repository Freeze placeholder (structural placeholder; not yet official).
+- REPOSITORY_FREEZE_v1.0.md — Official frozen repository architecture document (Repository Freeze v1.0).
   Path: docs/architecture/REPOSITORY_FREEZE_v1.0.md
 
 Purpose:
