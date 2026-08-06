@@ -41,7 +41,19 @@ Purpose: Canonical editorial and product philosophy documents.
 - frontend.md — Frontend architecture notes and decisions template.
   Path: docs/architecture/frontend.md
 
-Purpose: Architectural notes, decisions and guidance relevant to the frontend.
+- SUBWISE_PRODUCT_ARCHITECTURE.md — Product Architecture placeholder (canonical location).
+  Path: docs/architecture/SUBWISE_PRODUCT_ARCHITECTURE.md
+
+- SUBWISE_DOMAIN_MODEL.md — Domain Model placeholder (canonical location).
+  Path: docs/architecture/SUBWISE_DOMAIN_MODEL.md
+
+- SUBWISE_REPOSITORY_ARCHITECTURE.md — Repository Architecture placeholder (canonical location).
+  Path: docs/architecture/SUBWISE_REPOSITORY_ARCHITECTURE.md
+
+- REPOSITORY_FREEZE_v1.0.md — Repository Freeze placeholder (structural placeholder; not yet official).
+  Path: docs/architecture/REPOSITORY_FREEZE_v1.0.md
+
+Purpose: Architectural notes, decisions and guidance relevant to the frontend and repository.
 
 ---
 
