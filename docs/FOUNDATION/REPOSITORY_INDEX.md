@@ -1,5 +1,23 @@
 # Repository Index
 
+# PHILOSOPHY
+
+- manifesto.md — Product manifesto (canonical editorial stance).
+  Path: docs/philosophy/manifesto.md
+
+- principles.md — Editorial principles that govern content.
+  Path: docs/philosophy/principles.md
+
+- artifacts.md — The four canonical artifacts of SubWise.
+  Path: docs/philosophy/artifacts.md
+
+- journal.md — The Journal constitution and editorial rules.
+  Path: docs/philosophy/journal.md
+
+Purpose: Canonical editorial and product philosophy documents.
+
+---
+
 # FOUNDATION
 
 - SUBWISE_PROJECT_CONTEXT.md — Master onboarding context for contributors.
@@ -18,21 +36,17 @@ Purpose: Quick access to the repository's foundational documents for orientation
 
 ---
 
-# PHILOSOPHY
+# PRODUCT_GOVERNANCE
 
-- manifesto.md — Product manifesto (canonical editorial stance).
-  Path: docs/philosophy/manifesto.md
+Purpose: Canonical location for governance artifacts (placeholder folder).
+Path: docs/PRODUCT_GOVERNANCE/
 
-- principles.md — Editorial principles that govern content.
-  Path: docs/philosophy/principles.md
+---
 
-- artifacts.md — The four canonical artifacts of SubWise.
-  Path: docs/philosophy/artifacts.md
+# PRODUCT_DEVELOPMENT
 
-- journal.md — The Journal constitution and editorial rules.
-  Path: docs/philosophy/journal.md
-
-Purpose: Canonical editorial and product philosophy documents.
+Purpose: Canonical location for product development artifacts (placeholder folder).
+Path: docs/PRODUCT_DEVELOPMENT/
 
 ---
 
@@ -53,11 +67,20 @@ Purpose: Canonical editorial and product philosophy documents.
 - REPOSITORY_FREEZE_v1.0.md — Repository Freeze placeholder (structural placeholder; not yet official).
   Path: docs/architecture/REPOSITORY_FREEZE_v1.0.md
 
-Purpose: Architectural notes, decisions and guidance relevant to the frontend and repository.
+Purpose:
+Canonical architectural models describing the structure of the product, the repository and their relationships.
 
 ---
 
-# PRODUCT
+# MILESTONES
+
+Purpose:
+Canonical location for official milestone specifications and implementation packages.
+Path: docs/milestones/
+
+---
+
+# RESEARCH
 
 - Product Research README — Product research templates and findings.
   Path: docs/research/product/README.md
@@ -75,42 +98,7 @@ Purpose: Track architecture and project decisions (ADR index and templates).
 
 ---
 
-# RESEARCH
+# TEMPLATES
 
-- product/README.md — Product research documents and templates.
-  Path: docs/research/product/README.md
-
-Purpose: Research notes, hypotheses, validation and results.
-
----
-
-# Reading Order
-
-For New Contributors:
-1. docs/FOUNDATION/SUBWISE_PROJECT_CONTEXT.md
-2. docs/FOUNDATION/PRODUCT_BLUEPRINT.md
-3. docs/philosophy/manifesto.md
-4. docs/philosophy/principles.md
-5. docs/philosophy/artifacts.md
-6. docs/philosophy/journal.md
-7. docs/FOUNDATION/FEATURE_LIFECYCLE.md
-8. docs/decisions/README.md
-9. docs/architecture/frontend.md
-10. docs/research/product/README.md
-
-For Product Philosophy:
-1. docs/philosophy/manifesto.md
-2. docs/philosophy/principles.md
-3. docs/philosophy/journal.md
-4. docs/philosophy/artifacts.md
-
-For Product Development:
-1. docs/FOUNDATION/SUBWISE_PROJECT_CONTEXT.md
-2. docs/FOUNDATION/PRODUCT_BLUEPRINT.md
-3. docs/architecture/frontend.md
-4. docs/decisions/README.md
-
-For Product Decisions:
-1. docs/decisions/README.md
-2. docs/FOUNDATION/SUBWISE_PROJECT_CONTEXT.md
-3. docs/philosophy/manifesto.md
+Purpose: Canonical location for reusable document templates.
+Path: docs/templates/
