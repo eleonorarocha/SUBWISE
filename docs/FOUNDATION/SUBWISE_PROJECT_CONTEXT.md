@@ -43,7 +43,7 @@ See the canonical philosophy artifacts:
 
 Short explanation of the architectural layers.
 
-[PLACEHOLDER: Provide a short, factual description of the architectural layers (for example: UI / API / Data / Integrations) or leave blank to be filled by the architecture owner. Do NOT invent architecture here.]
+[PLACEHOLDER: Provide a short, factual description of the architectural layers (for example: UI / API / Data / Integrations) or leave blank to be filled by the architecture owner. Do NOT invent ar[...] 
 
 ---
 
@@ -71,7 +71,7 @@ Current priorities
 
 ## 6.2 Current Architecture Status
 
-[PLACEHOLDER: Brief current state of the architecture (e.g., "Docs only", "Prototype frontend", "Backend not implemented"). Do NOT invent details; keep placeholders for accurate owner-filled content.]
+[PLACEHOLDER: Brief current state of the architecture (e.g., "Docs only", "Prototype frontend", "Backend not implemented"). Do NOT invent details; keep placeholders for accurate owner-filled conte...]
 
 ---
 
@@ -96,19 +96,8 @@ Section reserved for project rules followed by contributors.
 
 ---
 
-## 9. Reading Order
+## Reading Order
 
-Create a recommended reading order for a new contributor.
-
-1. SUBWISE_PROJECT_CONTEXT.md
-2. docs/philosophy/manifesto.md
-3. docs/philosophy/principles.md
-4. docs/philosophy/artifacts.md
-5. docs/philosophy/journal.md
-6. docs/decisions/README.md
-7. docs/architecture/frontend.md
-8. [PLACEHOLDER: Product Blueprint or Product README]
-9. [PLACEHOLDER: Current Milestone / Roadmap]
+See the canonical Reading Order in docs/FOUNDATION/REPOSITORY_INDEX.md.
 
 ---
-
